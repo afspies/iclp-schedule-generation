@@ -1,0 +1,589 @@
+days:
+- abbr: '20'
+  date: '2023-07-09T08:30:00+01:00'
+  name: '2023-07-09T08:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: AALP (Workshop)
+      time_end: '2023-07-09T18:30:00+01:00'
+      time_start: '2023-07-09T08:30:00+01:00'
+    - name: ArgXAI (Workshop)
+      time_end: '2023-07-09T18:30:00+01:00'
+      time_start: '2023-07-09T08:30:00+01:00'
+    - name: STAI (Workshop)
+      time_end: '2023-07-09T18:30:00+01:00'
+      time_start: '2023-07-09T08:30:00+01:00'
+    - name: Doctoral Consortium
+      time_end: '2023-07-09T18:30:00+01:00'
+      time_start: '2023-07-09T08:30:00+01:00'
+    - name: ASPOCP (Workshop)
+      time_end: '2023-07-09T18:30:00+01:00'
+      time_start: '2023-07-09T08:30:00+01:00'
+    - name: LPLR (Workshop)
+      time_end: '2023-07-09T12:30:00+01:00'
+      time_start: '2023-07-09T08:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-09T10:30:00+01:00'
+  name: '2023-07-09T10:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break
+      time_end: '2023-07-09T11:15:00+01:00'
+      time_start: '2023-07-09T10:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-09T12:30:00+01:00'
+  name: '2023-07-09T12:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Lunch Break
+      time_end: '2023-07-09T13:30:00+01:00'
+      time_start: '2023-07-09T12:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-09T13:30:00+01:00'
+  name: '2023-07-09T13:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: PLP (Workshop)
+      time_end: '2023-07-09T18:30:00+01:00'
+      time_start: '2023-07-09T13:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-09T16:00:00+01:00'
+  name: '2023-07-09T16:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break
+      time_end: '2023-07-09T16:30:00+01:00'
+      time_start: '2023-07-09T16:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-09T18:30:00+01:00'
+  name: '2023-07-09T18:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: DC & Workshop Dinners
+      time_end: '2023-07-09T20:00:00+01:00'
+      time_start: '2023-07-09T18:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-10T08:30:00+01:00'
+  name: '2023-07-10T08:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: MEandE-LP (Workshop)
+      time_end: '2023-07-10T12:30:00+01:00'
+      time_start: '2023-07-10T08:30:00+01:00'
+    - name: CAUSAL (Workshop)
+      time_end: '2023-07-10T18:30:00+01:00'
+      time_start: '2023-07-10T08:30:00+01:00'
+    - name: EELP (Workshop)
+      time_end: '2023-07-10T12:30:00+01:00'
+      time_start: '2023-07-10T08:30:00+01:00'
+    - name: Summer School
+      time_end: '2023-07-10T18:30:00+01:00'
+      time_start: '2023-07-10T08:30:00+01:00'
+    - name: CMNA (Workshop)
+      time_end: '2023-07-10T18:30:00+01:00'
+      time_start: '2023-07-10T08:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-10T10:30:00+01:00'
+  name: '2023-07-10T10:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break
+      time_end: '2023-07-10T11:15:00+01:00'
+      time_start: '2023-07-10T10:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-10T12:30:00+01:00'
+  name: '2023-07-10T12:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Lunch Break
+      time_end: '2023-07-10T13:30:00+01:00'
+      time_start: '2023-07-10T12:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-10T13:30:00+01:00'
+  name: '2023-07-10T13:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: GDE (Workshop)
+      time_end: '2023-07-10T18:30:00+01:00'
+      time_start: '2023-07-10T13:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-10T16:00:00+01:00'
+  name: '2023-07-10T16:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break
+      time_end: '2023-07-10T16:30:00+01:00'
+      time_start: '2023-07-10T16:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-10T16:30:00+01:00'
+  name: '2023-07-10T16:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Women@ICLP Panel
+      time_end: '2023-07-10T18:30:00+01:00'
+      time_start: '2023-07-10T16:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-10T18:30:00+01:00'
+  name: '2023-07-10T18:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Women@ICLP Dinner
+      time_end: '2023-07-10T20:00:00+01:00'
+      time_start: '2023-07-10T18:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T08:30:00+01:00'
+  name: '2023-07-11T08:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Opening Remarks
+      time_end: '2023-07-11T09:00:00+01:00'
+      time_start: '2023-07-11T08:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T09:00:00+01:00'
+  name: '2023-07-11T09:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: 'Keynote: Maratea'
+      time_end: '2023-07-11T10:30:00+01:00'
+      time_start: '2023-07-11T09:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T10:30:00+01:00'
+  name: '2023-07-11T10:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break & Posters
+      time_end: '2023-07-11T11:15:00+01:00'
+      time_start: '2023-07-11T10:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T11:15:00+01:00'
+  name: '2023-07-11T11:15:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TC Session (6)
+      time_end: '2023-07-11T12:30:00+01:00'
+      time_start: '2023-07-11T11:15:00+01:00'
+    - name: 'Track: Systems and Demos'
+      time_end: '2023-07-11T12:30:00+01:00'
+      time_start: '2023-07-11T11:15:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T12:30:00+01:00'
+  name: '2023-07-11T12:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Lunch Break
+      time_end: '2023-07-11T13:30:00+01:00'
+      time_start: '2023-07-11T12:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T13:30:00+01:00'
+  name: '2023-07-11T13:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Tutorial
+      time_end: '2023-07-11T15:00:00+01:00'
+      time_start: '2023-07-11T13:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T15:00:00+01:00'
+  name: '2023-07-11T15:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: 'Track: Systems and Demos'
+      time_end: '2023-07-11T16:00:00+01:00'
+      time_start: '2023-07-11T15:00:00+01:00'
+    - name: TC Session (4)
+      time_end: '2023-07-11T16:00:00+01:00'
+      time_start: '2023-07-11T15:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T16:00:00+01:00'
+  name: '2023-07-11T16:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break & Posters
+      time_end: '2023-07-11T16:30:00+01:00'
+      time_start: '2023-07-11T16:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T16:30:00+01:00'
+  name: '2023-07-11T16:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TPLP Session (3)
+      time_end: '2023-07-11T18:00:00+01:00'
+      time_start: '2023-07-11T16:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-11T18:00:00+01:00'
+  name: '2023-07-11T18:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Welcome Reception & 50 Years of Prolog Celebration
+      time_end: '2023-07-11T21:00:00+01:00'
+      time_start: '2023-07-11T18:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T08:30:00+01:00'
+  name: '2023-07-12T08:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: 'Keynote: Wielemaker'
+      time_end: '2023-07-12T10:00:00+01:00'
+      time_start: '2023-07-12T08:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T10:00:00+01:00'
+  name: '2023-07-12T10:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: 'Track: Recently Published'
+      time_end: '2023-07-12T10:30:00+01:00'
+      time_start: '2023-07-12T10:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T10:30:00+01:00'
+  name: '2023-07-12T10:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break & Posters
+      time_end: '2023-07-12T11:15:00+01:00'
+      time_start: '2023-07-12T10:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T11:15:00+01:00'
+  name: '2023-07-12T11:15:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TPLP Session (3)
+      time_end: '2023-07-12T12:30:00+01:00'
+      time_start: '2023-07-12T11:15:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T12:30:00+01:00'
+  name: '2023-07-12T12:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Lunch Break
+      time_end: '2023-07-12T13:30:00+01:00'
+      time_start: '2023-07-12T12:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T13:30:00+01:00'
+  name: '2023-07-12T13:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TC Session (2)
+      time_end: '2023-07-12T14:00:00+01:00'
+      time_start: '2023-07-12T13:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T14:00:00+01:00'
+  name: '2023-07-12T14:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: 'Track: Recently Published'
+      time_end: '2023-07-12T14:30:00+01:00'
+      time_start: '2023-07-12T14:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T14:30:00+01:00'
+  name: '2023-07-12T14:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: 'Keynote: Stenning'
+      time_end: '2023-07-12T16:00:00+01:00'
+      time_start: '2023-07-12T14:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T16:00:00+01:00'
+  name: '2023-07-12T16:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break
+      time_end: '2023-07-12T16:30:00+01:00'
+      time_start: '2023-07-12T16:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T16:30:00+01:00'
+  name: '2023-07-12T16:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TPLP Session (3)
+      time_end: '2023-07-12T18:00:00+01:00'
+      time_start: '2023-07-12T16:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-12T18:30:00+01:00'
+  name: '2023-07-12T18:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Industrial Event @ I-X
+      time_end: '2023-07-12T20:30:00+01:00'
+      time_start: '2023-07-12T18:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T08:30:00+01:00'
+  name: '2023-07-13T08:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Presentation of Awards
+      time_end: '2023-07-13T10:00:00+01:00'
+      time_start: '2023-07-13T08:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T10:00:00+01:00'
+  name: '2023-07-13T10:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TPLP Best Paper
+      time_end: '2023-07-13T10:30:00+01:00'
+      time_start: '2023-07-13T10:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T10:30:00+01:00'
+  name: '2023-07-13T10:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break & Posters
+      time_end: '2023-07-13T11:15:00+01:00'
+      time_start: '2023-07-13T10:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T11:15:00+01:00'
+  name: '2023-07-13T11:15:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TC Session (6)
+      time_end: '2023-07-13T12:30:00+01:00'
+      time_start: '2023-07-13T11:15:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T12:30:00+01:00'
+  name: '2023-07-13T12:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Lunch Break
+      time_end: '2023-07-13T13:30:00+01:00'
+      time_start: '2023-07-13T12:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T13:30:00+01:00'
+  name: '2023-07-13T13:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Tutorial
+      time_end: '2023-07-13T15:00:00+01:00'
+      time_start: '2023-07-13T13:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T15:00:00+01:00'
+  name: '2023-07-13T15:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TC Session (4)
+      time_end: '2023-07-13T16:00:00+01:00'
+      time_start: '2023-07-13T15:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T16:00:00+01:00'
+  name: '2023-07-13T16:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break
+      time_end: '2023-07-13T16:30:00+01:00'
+      time_start: '2023-07-13T16:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T16:30:00+01:00'
+  name: '2023-07-13T16:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Programming Competition
+      time_end: '2023-07-13T18:30:00+01:00'
+      time_start: '2023-07-13T16:30:00+01:00'
+    - name: Birds of a Feather Session
+      time_end: '2023-07-13T18:30:00+01:00'
+      time_start: '2023-07-13T16:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-13T18:30:00+01:00'
+  name: '2023-07-13T18:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Conference Banquet
+      time_end: '2023-07-13T21:00:00+01:00'
+      time_start: '2023-07-13T18:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T08:30:00+01:00'
+  name: '2023-07-14T08:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Keynote - Gaggl
+      time_end: '2023-07-14T10:00:00+01:00'
+      time_start: '2023-07-14T08:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T10:00:00+01:00'
+  name: '2023-07-14T10:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TPLP Best Student Paper
+      time_end: '2023-07-14T10:30:00+01:00'
+      time_start: '2023-07-14T10:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T10:30:00+01:00'
+  name: '2023-07-14T10:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break & Posters
+      time_end: '2023-07-14T11:15:00+01:00'
+      time_start: '2023-07-14T10:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T11:15:00+01:00'
+  name: '2023-07-14T11:15:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TPLP Session (3)
+      time_end: '2023-07-14T12:30:00+01:00'
+      time_start: '2023-07-14T11:15:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T12:30:00+01:00'
+  name: '2023-07-14T12:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Lunch Break
+      time_end: '2023-07-14T13:30:00+01:00'
+      time_start: '2023-07-14T12:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T13:30:00+01:00'
+  name: '2023-07-14T13:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Keynote - Gupta
+      time_end: '2023-07-14T15:00:00+01:00'
+      time_start: '2023-07-14T13:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T15:00:00+01:00'
+  name: '2023-07-14T15:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TC Session (3)
+      time_end: '2023-07-14T16:00:00+01:00'
+      time_start: '2023-07-14T15:00:00+01:00'
+    - name: Coordinating Education on Prolog and LP Worldwide
+      time_end: '2023-07-14T18:00:00+01:00'
+      time_start: '2023-07-14T15:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T16:00:00+01:00'
+  name: '2023-07-14T16:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break
+      time_end: '2023-07-14T16:30:00+01:00'
+      time_start: '2023-07-14T16:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T16:30:00+01:00'
+  name: '2023-07-14T16:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TPLP Session (3)
+      time_end: '2023-07-14T18:00:00+01:00'
+      time_start: '2023-07-14T16:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-14T18:30:00+01:00'
+  name: '2023-07-14T18:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Walk in Kensington
+      time_end: '2023-07-14T21:00:00+01:00'
+      time_start: '2023-07-14T18:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-15T08:30:00+01:00'
+  name: '2023-07-15T08:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: TPLP Session (3)
+      time_end: '2023-07-15T10:00:00+01:00'
+      time_start: '2023-07-15T08:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-15T10:00:00+01:00'
+  name: '2023-07-15T10:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: 'Track: Recently Published'
+      time_end: '2023-07-15T10:30:00+01:00'
+      time_start: '2023-07-15T10:00:00+01:00'
+- abbr: '20'
+  date: '2023-07-15T10:30:00+01:00'
+  name: '2023-07-15T10:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break & Posters
+      time_end: '2023-07-15T11:15:00+01:00'
+      time_start: '2023-07-15T10:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-15T11:15:00+01:00'
+  name: '2023-07-15T11:15:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: ALP Meeting
+      time_end: '2023-07-15T12:30:00+01:00'
+      time_start: '2023-07-15T11:15:00+01:00'
+- abbr: '20'
+  date: '2023-07-15T12:30:00+01:00'
+  name: '2023-07-15T12:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Lunch Break
+      time_end: '2023-07-15T13:30:00+01:00'
+      time_start: '2023-07-15T12:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-15T13:30:00+01:00'
+  name: '2023-07-15T13:30:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: 'Track: Recently Published'
+      time_end: '2023-07-15T15:00:00+01:00'
+      time_start: '2023-07-15T13:30:00+01:00'
+- abbr: '20'
+  date: '2023-07-15T16:00:00+01:00'
+  name: '2023-07-15T16:00:00+01:00'
+  rooms:
+  - name: Room A
+    talks:
+    - name: Coffee Break
+      time_end: '2023-07-15T16:30:00+01:00'
+      time_start: '2023-07-15T16:00:00+01:00'

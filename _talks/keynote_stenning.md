@@ -1,0 +1,5 @@
+---
+name:  Stenning
+speakers:
+categories:
+---
